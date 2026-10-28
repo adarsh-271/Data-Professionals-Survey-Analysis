@@ -27,7 +27,7 @@ Developed an interactive Power BI dashboard to analyze survey data from 630 data
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Dashboard preview.png)
+![Power BI Dashboard](Dashboard Preview)
 
 ## Skills Demonstrated
 
